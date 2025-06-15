@@ -1,0 +1,24 @@
+{
+  "name": "alchemy-sign-tx",
+  "version": "1.0.0",
+  "description": "Send a Signed JSON-RPC Request on Ethereum Testnet using the Alchemy SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nico9506/alchemy-sign-tx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nico9506/alchemy-sign-tx/issues"
+  },
+  "homepage": "https://github.com/nico9506/alchemy-sign-tx#readme",
+  "dependencies": {
+    "alchemy-sdk": "^3.6.0",
+    "dotenv": "^16.5.0"
+  }
+}
